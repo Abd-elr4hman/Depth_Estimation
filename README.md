@@ -2,7 +2,7 @@
 This Repo contains notebooks and code to Deploy Depth Estimation models on SageMake.
 
 ## AdaBins
-Deploy AdaBins the model ranked 7th on Monocular Depth Estimation on KITTI Eigen split, the AdaBins directory contains the notebook used for deployment and the code directory packaged with the model.
+Deploy AdaBins the model ranked 7th on Monocular Depth Estimation on KITTI Eigen split on SageMaker Realtime and Async endpoint, the AdaBins directory contains the notebook used for deployment and the code directory packaged with the model.
 
 ### Sample output visualized
 ![image](https://user-images.githubusercontent.com/87248009/194225468-ab10539c-b33d-4ff0-92be-38b8305ca3f6.png)
